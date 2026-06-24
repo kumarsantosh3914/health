@@ -128,4 +128,4 @@ export function getNeighbourhoods(citySlug: string): string[] {
 export const SITE_NAME = "India Health Arena";
 export const SITE_TAGLINE = "Find the right doctor, right now. Zero friction.";
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
-export const MADE_BY = "Arpit Rautela";
+export const MADE_BY = "Santosh Kumar";

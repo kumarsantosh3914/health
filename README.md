@@ -117,5 +117,3 @@ Professionals Registry (HPR ID + mobile OTP). **Verified submissions auto-publis
 - **Database:** MongoDB Atlas (free tier) or any MongoDB host
 
 ---
-
-made by **Arpit Rautela**

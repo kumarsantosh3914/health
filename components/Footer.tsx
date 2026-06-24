@@ -24,9 +24,6 @@ export default function Footer() {
           <span>Always Updated · No Sign-in · Free Forever</span>
         </nav>
       </div>
-      <div className="border-t border-gray-200 px-4 py-2 text-center text-xs text-amber-600 dark:border-gray-800 dark:text-amber-400">
-        ⚠️ Doctor listings are sample/demo data, not real practitioners. See README for real-data sources (ABDM HFR, data.gov.in, Google Places).
-      </div>
     </footer>
   );
 }
