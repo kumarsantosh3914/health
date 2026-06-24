@@ -1,0 +1,46 @@
+{
+  "name": "india-health-arena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pan-India doctor, clinic & hospital discovery platform. Zero friction.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed": "tsx scripts/seed.ts",
+    "import:places": "tsx scripts/import-places.ts",
+    "gen:guides": "tsx scripts/gen-guides.ts",
+    "gen:city-art": "tsx scripts/gen-city-art.ts"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0",
+    "gray-matter": "^4.0.3",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "mongoose": "^8.4.1",
+    "next": "^14.2.33",
+    "next-mdx-remote": "^6.0.0",
+    "openai": "^6.44.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.12",
+    "@types/leaflet.markercluster": "^1.5.4",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "autoprefixer": "^10.4.19",
+    "dotenv": "^16.4.5",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.33",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "tsx": "^4.15.6",
+    "typescript": "^5.4.5"
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#ef4444"/></linearGradient></defs>
+  <rect width="600" height="300" fill="url(#bg)"/>
+  <circle cx="500" cy="70" r="36" fill="#ffffff" opacity="0.25"/>
+  <path d="M0,300 L0,260 L50,260 L50,230 L100,230 L100,245 L150,245 L150,210 L200,210 L200,240 L250,240 L250,190 L300,190 L300,225 L350,225 L350,205 L400,205 L400,235 L450,235 L450,220 L500,220 L500,255 L550,255 L550,200 L600,200 L600,300 Z" fill="#000000" opacity="0.18"/>
+  <text x="30" y="60" font-family="system-ui, sans-serif" font-size="44" font-weight="800" fill="#ffffff" opacity="0.95">Delhi</text>
+</svg>
